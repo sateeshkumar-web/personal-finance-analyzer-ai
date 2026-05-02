@@ -70,8 +70,18 @@ Forecasting Models - 	ARIMA, Prophet
   -Entertainment
 
  ## 📸 DashBoard Preview
+ ### Application Screenshots
  <img width="917" height="607" alt="Screenshot 2026-05-02 230020" src="https://github.com/user-attachments/assets/86d0c712-f3c5-4648-9f22-00e1bccdcc4a" />
 
+ #### Expense Analysis
+ 
+#### Monthly Trends
+ 
+####  Subscription Detector
+         
+#### Forecasting
+
+#### Heatmap
 
 ## Future Scope
 
