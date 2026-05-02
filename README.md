@@ -1,19 +1,22 @@
-# 1. 💰 Personal Finance Analyzer using AI
+#  💰 Personal Finance Analyzer using AI
 
-## 2.📌 Overview
+## 📌 Overview
 Personal Finance Analyzer is an AI-powered web application that helps users track, analyze, and optimize their financial activities. It provides intelligent insights and predictions based on user spending behavior.
 
-## 3. 🎯 Problem Statement
+##  🎯 Problem Statement
 Managing personal finances manually is inefficient and error-prone. Users often lack insights into their spending habits, leading to poor financial decisions.
 
-## 4.💡 Solution
+## 💡 Solution
 This project leverages data analysis and machine learning techniques to:
 - Track expenses
 - Analyze spending patterns
 - Predict future expenses
 - Generate smart financial insights
 
-## 5.🚀 Features
+ ## Data Set:-
+  -<a href="https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Data%20set/compare_transactions.csv">Dataset</a>
+
+## 🚀 Features
 - CSV Auto-Converter (any format → standardized dataset)  
 - Category-wise Expense Analysis  
 - Monthly Trend Visualization  
@@ -22,12 +25,12 @@ This project leverages data analysis and machine learning techniques to:
 - 🤖 Expense Forecasting (Prophet / ARIMA)  
 - 📊 Multi-Month Comparison    
 
-## 6.🧠 AI Implementation
+## 🧠 AI Implementation
 - Linear Regression model for expense prediction  
 - Data preprocessing using Pandas  
 - Insight generation using statistical analysis  
 
-## 7.🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python  
 - Streamlit  
 - Pandas, NumPy  
@@ -36,7 +39,7 @@ This project leverages data analysis and machine learning techniques to:
 - Seaborn
 - Plotly
 
-## 8.📂 Project Structure
+## 📂 Project Structure
 
      personal-finance-analyzer/
 
@@ -47,13 +50,13 @@ This project leverages data analysis and machine learning techniques to:
  │── requirements.txt
  │── README.md
 
- ## 9.📸 Screenshots
+ ## 📸 Screenshots
 
 ### Dashboard
 -<a href= "https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Dashboard/Dashboard.png"> View Dashboard</a>
 
 
-## 10.🔮 Future Scope
+## 🔮 Future Scope
 
 - Deep learning-based forecasting
 - Real-time bank API integration
@@ -61,7 +64,7 @@ This project leverages data analysis and machine learning techniques to:
 - Advanced anomaly detection
 
 
-## 11.⚙️ Installation
+## ⚙️ Installation
 
 ```bash
 git clone https://github.com/sateeshkumar-web/personal-finance-analyzer-ai.git
@@ -71,7 +74,7 @@ streamlit run app.py
 
 
 
-## 12. 👨‍💻Author
+##  👨‍💻Author
 
  Sateesh Kumar
  B.Tech (AI & Data Science)
