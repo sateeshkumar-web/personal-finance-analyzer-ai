@@ -1,9 +1,9 @@
-#  💰 Personal Finance Analyzer using AI
+#   Personal Finance Analyzer using AI
 
-## 📌 Overview
+## Overview
 Personal Finance Analyzer is an AI-powered web application that helps users track, analyze, and optimize their financial activities. It provides intelligent insights and predictions based on user spending behavior.
 
-##  🎯 Problem Statement
+## Problem Statement
 Managing personal finances manually is inefficient and error-prone. Users often lack insights into their spending habits, leading to poor financial decisions.
 
 ## 💡 Solution
@@ -14,33 +14,39 @@ This project leverages data analysis and machine learning techniques to:
 - Generate smart financial insights
 
  ## Data Set:-
-  -<a href="https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Data%20set/compare_transactions.csv">Dataset</a>
-  -<a href="https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Data%20set/sample_transactions.csv">Dataset</a>
+  -<a href="https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Data%20set/compare_transactions.csv">compare_transactions.csv</a>
+  -<a href="https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Data%20set/sample_transactions.csv">sample_transactions.csv</a>
 
-## 🚀 Features
+## Features
 - CSV Auto-Converter (any format → standardized dataset)  
 - Category-wise Expense Analysis  
 - Monthly Trend Visualization  
-- 📅 Calendar Heatmap for daily expenses  
-- 🔁 Subscription Detection System  
-- 🤖 Expense Forecasting (Prophet / ARIMA)  
-- 📊 Multi-Month Comparison    
+-  Calendar Heatmap for daily expenses  
+-  Subscription Detection System  
+-  Expense Forecasting (Prophet / ARIMA)  
+-  Multi-Month Comparison    
 
-## 🧠 AI Implementation
+## AI Implementation
 - Linear Regression model for expense prediction  
 - Data preprocessing using Pandas  
-- Insight generation using statistical analysis  
+- Insight generation using statistical analysis
+
+  
+## System Workflow
+User → Upload CSV → Processing → Analysis → Visualization → Forecasting
 
 ## 🛠️ Tech Stack
-- Python  
-- Streamlit  
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn
-- Plotly
+  
+Category	- Technology
 
-## 📂 Project Structure
+Language	- Python
+Framework	- Streamlit
+Data Analysis	- Pandas, NumPy
+Visualization	- Matplotlib, Seaborn, Plotly
+Machine Learning	 - Scikit-learn
+Forecasting Models - 	ARIMA, Prophet
+
+## Project Structure
 
      personal-finance-analyzer/
 
@@ -51,23 +57,19 @@ This project leverages data analysis and machine learning techniques to:
  │── requirements.txt
  │── README.md
 
- ## 📸 Screenshots
+ ## 📸 DashBoard Preview
  <img width="917" height="607" alt="Screenshot 2026-05-02 230020" src="https://github.com/user-attachments/assets/86d0c712-f3c5-4648-9f22-00e1bccdcc4a" />
-
-
-### Dashboard
 -<a href= "https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Dashboard/Dashboard.png"> View Dashboard</a>
 
 
-## 🔮 Future Scope
+## Future Scope
 
 - Deep learning-based forecasting
 - Real-time bank API integration
 - Mobile application
 - Advanced anomaly detection
 
-
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/sateeshkumar-web/personal-finance-analyzer-ai.git
@@ -77,7 +79,7 @@ streamlit run app.py
 
 
 
-##  👨‍💻Author
+## 👨‍💻 Author
 
  Sateesh Kumar
  B.Tech (AI & Data Science)
