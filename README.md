@@ -15,6 +15,7 @@ This project leverages data analysis and machine learning techniques to:
 
  ## Data Set:-
   -<a href="https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Data%20set/compare_transactions.csv">Dataset</a>
+  -<a href="https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Data%20set/sample_transactions.csv">Dataset</a>
 
 ## 🚀 Features
 - CSV Auto-Converter (any format → standardized dataset)  
