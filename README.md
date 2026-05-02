@@ -50,13 +50,9 @@ This project leverages data analysis and machine learning techniques to:
  ## 9.📸 Screenshots
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
-
-### Analysis Page
-![Analysis](images/analysis.png)
-
-![image](https://github.com/username/repo/assets/...)
-
+<p align="center">
+  <img src="images/Dashboard/Dashboard.png " width="900"/>
+</p>
 
 
 ## 10.🔮 Future Scope
