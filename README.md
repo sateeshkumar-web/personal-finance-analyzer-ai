@@ -35,7 +35,8 @@ This project leverages data analysis and machine learning techniques to:
 ## System Workflow
 User → Upload CSV → Processing → Analysis → Visualization → Forecasting
 
-## 🛠️ Tech Stack
+
+## 🛠️ Tools &Technologies
   
 Category	- Technology
 
@@ -46,21 +47,31 @@ Visualization	- Matplotlib, Seaborn, Plotly
 Machine Learning	 - Scikit-learn
 Forecasting Models - 	ARIMA, Prophet
 
-## Project Structure
+## Methodology
 
-     personal-finance-analyzer/
+-The project follows these steps:-
 
- │── app.py
- │── data/
- │── models/
- │── utils/
- │── requirements.txt
- │── README.md
+#### Data Collection
+
+-Transaction data is collected in CSV format from bank statements, UPI apps, and financial records.
+
+#### Data Preprocessing
+
+-The system removes duplicate entries, handles missing values, and converts dates into a proper format.
+
+#### Data Categorization
+
+-Expenses are divided into categories such as:
+
+  -Food
+  -Travel
+  -Bills
+  -Shopping
+  -Entertainment
 
  ## 📸 DashBoard Preview
  <img width="917" height="607" alt="Screenshot 2026-05-02 230020" src="https://github.com/user-attachments/assets/86d0c712-f3c5-4648-9f22-00e1bccdcc4a" />
 -<a href= "https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Dashboard/Dashboard.png"> View Dashboard</a>
-
 
 ## Future Scope
 
@@ -84,6 +95,7 @@ streamlit run app.py
  Sateesh Kumar
  B.Tech (AI & Data Science)
  Email: sateeshk65666@gmail.com
+GitHub: https://github.com/sateeshkumar-web
  [LinkedIn] (https://www.linkedin.com/in/sateesh-kumar-dwivedi-92ba83350)
 
 
