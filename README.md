@@ -50,9 +50,7 @@ This project leverages data analysis and machine learning techniques to:
  ## 9.📸 Screenshots
 
 ### Dashboard
-<p align="center">
-  <img src="images/Dashboard/Dashboard.png " width="900"/>
-</p>
+-<a href= "https://github.com/sateeshkumar-web/personal-finance-analyzer-ai/blob/main/Dashboard/Dashboard.png"> View Dashboard</a>
 
 
 ## 10.🔮 Future Scope
