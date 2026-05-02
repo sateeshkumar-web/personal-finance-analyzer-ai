@@ -1,4 +1,4 @@
-#   Personal Finance Analyzer using AI
+#  Personal Finance Analyzer using AI
 
 ## Overview
 Personal Finance Analyzer is an AI-powered web application that helps users track, analyze, and optimize their financial activities. It provides intelligent insights and predictions based on user spending behavior.
@@ -6,7 +6,7 @@ Personal Finance Analyzer is an AI-powered web application that helps users trac
 ## Problem Statement
 Managing personal finances manually is inefficient and error-prone. Users often lack insights into their spending habits, leading to poor financial decisions.
 
-## 💡 Solution
+## Solution
 This project leverages data analysis and machine learning techniques to:
 - Track expenses
 - Analyze spending patterns
@@ -36,7 +36,7 @@ This project leverages data analysis and machine learning techniques to:
 User → Upload CSV → Processing → Analysis → Visualization → Forecasting
 
 
-## 🛠️ Tools &Technologies
+##  Tools &Technologies
   
 Category	- Technology
 
