@@ -100,14 +100,13 @@ streamlit run app.py
 
 
 
-## 👨‍💻 Author
+ ## 👨‍💻Author &  Connect With Me
 
- Sateesh Kumar
- B.Tech (AI & Data Science)
- Email: sateeshk65666@gmail.com
-GitHub: https://github.com/sateeshkumar-web
- [LinkedIn] (https://www.linkedin.com/in/sateesh-kumar-dwivedi-92ba83350)
-
+- Sateesh Kumar
+- GitHub: https://github.com/sateeshkumar-web
+- LinkedIn: www.linkedin.com/in/sateesh-kumar-dwivedi-92ba83350  
+- Gmail: sateeshk65666@gmail.com
+- Phone: 7379202536 (Work)
 
  
 
