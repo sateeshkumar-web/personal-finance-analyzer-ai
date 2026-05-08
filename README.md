@@ -88,7 +88,7 @@ Personal Finance Analyzer is an AI-powered web application that helps users trac
     streamlit run app.py
 
 
-##👨‍💻Author &  Connect With Me
+## 👨‍💻Author &  Connect With Me
 
 - Sateesh Kumar
 - GitHub: https://github.com/sateeshkumar-web
