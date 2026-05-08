@@ -82,21 +82,19 @@ Personal Finance Analyzer is an AI-powered web application that helps users trac
 
 ## Installation
 
-```bash
-git clone https://github.com/sateeshkumar-web/personal-finance-analyzer-ai.git
-cd personal-finance-analyzer-ai
-pip install -r requirements.txt
-streamlit run app.py
+    git clone https://github.com/sateeshkumar-web/personal-finance-analyzer-ai.git
+    cd personal-finance-analyzer-ai
+    pip install -r requirements.txt
+    streamlit run app.py
 
 
-
- 👨‍💻Author &  Connect With Me
+##👨‍💻Author &  Connect With Me
 
 - Sateesh Kumar
 - GitHub: https://github.com/sateeshkumar-web
 - LinkedIn: www.linkedin.com/in/sateesh-kumar-dwivedi-92ba83350  
 - Gmail: sateeshk65666@gmail.com
-- Phone: 7379202536 (Work)
+ 
 
  
 
