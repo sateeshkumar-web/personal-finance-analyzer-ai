@@ -55,7 +55,7 @@ Personal Finance Analyzer is an AI-powered web application that helps users trac
        -Transaction data is collected in CSV format from bank statements, UPI apps, and financial records.
 
     2.Data Preprocessing:-
-     -The system removes duplicate entries, handles missing values, and converts dates into a proper format.
+    ,  -The system removes duplicate entries, handles missing values, and converts dates into a proper format.
 
     3. Data Categorization
        -Food
@@ -70,12 +70,11 @@ Personal Finance Analyzer is an AI-powered web application that helps users trac
 
     -Expense Analysis
     -Monthly Trends
-     -Subscription Detector    
-    - Forecasting
+    -Subscription Detector    
+    -Forecasting
     -Heatmap
 
-## Future Scope
-
+## Future Scope :
     - Deep learning-based forecasting
     - Real-time bank API integration
     - Mobile application
@@ -91,10 +90,7 @@ streamlit run app.py
 
 
 
-
-
-
- ## 👨‍💻Author &  Connect With Me
+ 👨‍💻Author &  Connect With Me
 
 - Sateesh Kumar
 - GitHub: https://github.com/sateeshkumar-web
