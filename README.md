@@ -67,6 +67,8 @@ Personal Finance Analyzer is an AI-powered web application that helps users trac
  ## 📸 DashBoard Preview
      ### Application Screenshots
  <img width="917" height="607" alt="Screenshot 2026-05-02 230020" src="https://github.com/user-attachments/assets/86d0c712-f3c5-4648-9f22-00e1bccdcc4a" />
+ ![Uploading image.png…]()
+
 
     -Expense Analysis
     -Monthly Trends
